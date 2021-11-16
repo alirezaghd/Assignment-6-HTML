@@ -1,0 +1,62 @@
+
+
+
+.heart{
+height: 200px;
+width: 200px;
+background: red;
+position: absolute;
+left: 100;
+top: 400px;
+transform: rotate(45deg);
+}
+.heart1{
+    height: 201px;
+    width: 201px;
+    border-radius: 200px;
+    background: red;
+    position: absolute;
+    left: 179px;
+    top: 320px;
+    }
+    .heart2{
+        height: 201px;
+        width: 201px;
+        border-radius: 200px;
+        background: red;
+        position: absolute;
+        left: 20px;
+        top: 320px;
+        }
+
+.infinity{
+
+    border-style: solid;
+    border-width: 20px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    border-top-right-radius:220px;
+    border-bottom-right-radius: 200px;
+    border-top-left-radius: 200px;
+    position: absolute;
+    left: 210;
+    top: 100;
+    transform: rotate(45deg);
+
+}
+.infinity1{
+    border-style: solid;
+    border-width: 20px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    border-top-right-radius:220px;
+    border-bottom-right-radius: 200px;
+    border-top-left-radius: 200px;
+    position: absolute;
+    left: 40;
+    top: 100;
+    transform: rotate(225deg);
+
+}
